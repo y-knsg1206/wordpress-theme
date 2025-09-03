@@ -1,0 +1,8 @@
+@use 'foundation' as *;
+
+.u-pc {
+    display: none;
+    @include mq(md) {
+        display: block;
+    }
+}
