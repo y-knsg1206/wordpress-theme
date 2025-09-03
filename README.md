@@ -21,4 +21,3 @@
   - Gulpでコンパイルを実施するため、DartJS Sass Compiler and Sassなどの拡張機能は無効化してご利用ください
 - 画像の圧縮を実施
 - JavaScriptの圧縮は未実施
-# wordpress-theme
