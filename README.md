@@ -13,12 +13,12 @@
 
 ## 仕様
 - スマホファースト、PCファーストを設定で切り替え可能です。
-- variables.scssの「$break-flg」を0:SPファースト、1：PCファーストで切り替えて使用する
+- variables.scssの「$break-flg」を0：SPファースト、1：PCファーストで切り替えて使用する
 - 基本的には、srcフォルダに対して作業する
 - コンパイル後のコードはdistフォルダに格納される
 - phpは直下のファイルの内容を修正する
 - SassをCSSにコンパイル実施
-  - Gulpでコンパイルを実施するため、DartJS Sass Compiler and Sassなどの拡張機能は、無効化してご利用ください
+  - Gulpでコンパイルを実施するため、DartJS Sass Compiler and Sassなどの拡張機能は無効化してご利用ください
 - 画像の圧縮を実施
 - JavaScriptの圧縮は未実施
 # wordpress-theme
